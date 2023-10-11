@@ -1,0 +1,5 @@
+- Design from figma: https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4/team-page-challenge?type=design&node-id=1-40&mode=design&t=sGLMCP82qwB7UjNH-0
+- Dimensions from figma: 1440px
+- Link github: https://github.com/nguyenngochuy00/devchalleges_team-page-challenge
+- Link web: https://devchallenges-team-page-challenge.netlify.app/
+- Technology used: HTML, CSS
